@@ -162,4 +162,3 @@ Enter a command: Good bye!
   <sub>GOIT Python Core — HW-08 · Assistant Bot Project</sub><br>
   <sub>© 2025 All rights reserved</sub>
 </p>
-```
