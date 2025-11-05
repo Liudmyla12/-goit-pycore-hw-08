@@ -1,4 +1,3 @@
-````markdown
 # 🧠 goit-pycore-hw-08 — Serialization + Assistant Bot
 
 Завдання: зберігати адресну книгу на диск (**pickle**) та відновлювати її при запуску.  
@@ -6,16 +5,16 @@
 
 ## 📁 Структура проєкту
 
-```
+```text
 goit-pycore-hw-08/
 ├── .gitignore
 ├── README.md
-├── address_book.py          # Field, Name, Phone, Birthday, Record, AddressBook (+get_upcoming_birthdays)
-├── bot_commands.py          # add, change, phone, all, add-birthday, show-birthday, birthdays
-├── main.py                  # CLI-бот + збереження/відновлення через pickle
-└── commands.txt             # (опційно) сценарій для автоперевірки
+├── address_book.py      # Field, Name, Phone, Birthday, Record, AddressBook (+get_upcoming_birthdays)
+├── bot_commands.py      # add, change, phone, all, add-birthday, show-birthday, birthdays
+├── main.py              # CLI-бот + збереження/відновлення через pickle
+└── commands.txt         # (опційно) сценарій для автоперевірки
+
 ```
-````
 
 > 🗂️ Файл даних `addressbook.pkl` створюється автоматично при виході з програми та **ігнорується Git’ом**.
 
@@ -164,3 +163,4 @@ Enter a command: Good bye!
   <sub>© 2025 All rights reserved</sub>
 </p>
 ```
+````
