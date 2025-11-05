@@ -32,7 +32,7 @@ goit-pycore-hw-08/
 
 ### Windows / PowerShell / VS Code Terminal
 
-````bash
+```bash
 py main.py
 
 macOS / Linux
@@ -78,7 +78,6 @@ Enter a command: all
 Contact name: Mila, phones: 1234567890, birthday: 10.04.1995
 Enter a command: exit
 Good bye!
-
 
 🧠 Автоматична перевірка зі скрипту (commands.txt)
 
@@ -130,5 +129,5 @@ Contact name: Leo, phones: 5551112225, birthday: 12.11.1992
 Enter a command: Good bye!
 
 
-<p align="center"> <sub>GOIT Python Core — HW-08 · Assistant Bot Project</sub><br> <sub>© 2025 All rights reserved</sub> </p> ```<p align="center"> <sub>GOIT Python Core — HW-08 · Assistant Bot Project</sub><br> <sub>© 2025 All rights reserved</sub> </p>
-````
+<p align="center"> <sub>GOIT Python Core — HW-08 · Assistant Bot Project</sub><br> <sub>© 2025 All rights reserved</sub> </p>
+```
