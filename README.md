@@ -128,6 +128,8 @@ Contact name: Max, phones: 5551112224, birthday: 08.11.1988
 Contact name: Leo, phones: 5551112225, birthday: 12.11.1992
 Enter a command: Good bye!
 
-
-<p align="center"> <sub>GOIT Python Core — HW-08 · Assistant Bot Project</sub><br> <sub>© 2025 All rights reserved</sub> </p>
+<p align="center">
+  <sub>GOIT Python Core — HW-08 · Assistant Bot Project</sub><br>
+  <sub>© 2025 All rights reserved</sub>
+</p>
 ```
