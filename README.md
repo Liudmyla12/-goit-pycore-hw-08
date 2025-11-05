@@ -163,4 +163,3 @@ Enter a command: Good bye!
   <sub>© 2025 All rights reserved</sub>
 </p>
 ```
-````
