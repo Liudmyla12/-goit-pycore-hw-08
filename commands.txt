@@ -1,0 +1,15 @@
+hello
+add Anna 5551112223
+add-birthday Anna 06.11.1990
+add Max 5551112224
+add-birthday Max 08.11.1988
+add Leo 5551112225
+add-birthday Leo 12.11.1992
+phone Anna
+show-birthday Max
+birthdays
+all
+exit
+
+
+
